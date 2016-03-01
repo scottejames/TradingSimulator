@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/repo/!svn/ver/105/trunk/TradingSimulator/bin/scott/trading/infra
+END
+Pair.class
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/repo/!svn/ver/105/trunk/TradingSimulator/bin/scott/trading/infra/Pair.class
+END
+IReciever.class
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/repo/!svn/ver/105/trunk/TradingSimulator/bin/scott/trading/infra/IReciever.class
+END
+IDispatcher.class
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/repo/!svn/ver/105/trunk/TradingSimulator/bin/scott/trading/infra/IDispatcher.class
+END
+DirectDispatcher.class
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/repo/!svn/ver/105/trunk/TradingSimulator/bin/scott/trading/infra/DirectDispatcher.class
+END
+MultiDispatcher.class
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/repo/!svn/ver/105/trunk/TradingSimulator/bin/scott/trading/infra/MultiDispatcher.class
+END
+SWTGlobals.class
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/repo/!svn/ver/105/trunk/TradingSimulator/bin/scott/trading/infra/SWTGlobals.class
+END

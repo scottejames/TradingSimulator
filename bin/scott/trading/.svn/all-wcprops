@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/repo/!svn/ver/105/trunk/TradingSimulator/bin/scott/trading
+END
+Order.class
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/repo/!svn/ver/105/trunk/TradingSimulator/bin/scott/trading/Order.class
+END
+BaseTrader.class
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/repo/!svn/ver/105/trunk/TradingSimulator/bin/scott/trading/BaseTrader.class
+END
+Simulator.class
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/repo/!svn/ver/105/trunk/TradingSimulator/bin/scott/trading/Simulator.class
+END
+Trade.class
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/repo/!svn/ver/105/trunk/TradingSimulator/bin/scott/trading/Trade.class
+END
+Order$DIRECTION.class
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/repo/!svn/ver/105/trunk/TradingSimulator/bin/scott/trading/Order$DIRECTION.class
+END
+IdiotBuyerTrader.class
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/repo/!svn/ver/105/trunk/TradingSimulator/bin/scott/trading/IdiotBuyerTrader.class
+END
+IdiotSellerTrader.class
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/repo/!svn/ver/105/trunk/TradingSimulator/bin/scott/trading/IdiotSellerTrader.class
+END
+OrderDispatcher.class
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/repo/!svn/ver/105/trunk/TradingSimulator/bin/scott/trading/OrderDispatcher.class
+END
+Market.class
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/repo/!svn/ver/105/trunk/TradingSimulator/bin/scott/trading/Market.class
+END
+TradeServices.class
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/repo/!svn/ver/105/trunk/TradingSimulator/bin/scott/trading/TradeServices.class
+END
+OrderBook.class
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/repo/!svn/ver/105/trunk/TradingSimulator/bin/scott/trading/OrderBook.class
+END
+TradeDispatcher.class
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/repo/!svn/ver/105/trunk/TradingSimulator/bin/scott/trading/TradeDispatcher.class
+END
+OrderBookViewer.class
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/repo/!svn/ver/105/trunk/TradingSimulator/bin/scott/trading/OrderBookViewer.class
+END
+PositionServices.class
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/repo/!svn/ver/105/trunk/TradingSimulator/bin/scott/trading/PositionServices.class
+END

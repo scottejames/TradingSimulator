@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/repo/!svn/ver/105/trunk/TradingSimulator/src/scott/trading
+END
+Simulator.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/repo/!svn/ver/105/trunk/TradingSimulator/src/scott/trading/Simulator.java
+END
+Trade.java
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/repo/!svn/ver/105/trunk/TradingSimulator/src/scott/trading/Trade.java
+END
+IdiotBuyerTrader.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/repo/!svn/ver/105/trunk/TradingSimulator/src/scott/trading/IdiotBuyerTrader.java
+END
+IdiotSellerTrader.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/repo/!svn/ver/105/trunk/TradingSimulator/src/scott/trading/IdiotSellerTrader.java
+END
+OrderDispatcher.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/repo/!svn/ver/105/trunk/TradingSimulator/src/scott/trading/OrderDispatcher.java
+END
+Market.java
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/repo/!svn/ver/105/trunk/TradingSimulator/src/scott/trading/Market.java
+END
+TradeServices.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/repo/!svn/ver/105/trunk/TradingSimulator/src/scott/trading/TradeServices.java
+END
+OrderBook.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/repo/!svn/ver/105/trunk/TradingSimulator/src/scott/trading/OrderBook.java
+END
+TradeDispatcher.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/repo/!svn/ver/105/trunk/TradingSimulator/src/scott/trading/TradeDispatcher.java
+END
+OrderBookViewer.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/repo/!svn/ver/105/trunk/TradingSimulator/src/scott/trading/OrderBookViewer.java
+END
+PositionServices.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/repo/!svn/ver/105/trunk/TradingSimulator/src/scott/trading/PositionServices.java
+END
+Order.java
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/repo/!svn/ver/105/trunk/TradingSimulator/src/scott/trading/Order.java
+END
+BaseTrader.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/repo/!svn/ver/105/trunk/TradingSimulator/src/scott/trading/BaseTrader.java
+END

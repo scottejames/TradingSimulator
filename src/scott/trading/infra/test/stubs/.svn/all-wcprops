@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/repo/!svn/ver/105/trunk/TradingSimulator/src/scott/trading/infra/test/stubs
+END
+TestEvent.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/repo/!svn/ver/105/trunk/TradingSimulator/src/scott/trading/infra/test/stubs/TestEvent.java
+END
+TestReciever.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/repo/!svn/ver/105/trunk/TradingSimulator/src/scott/trading/infra/test/stubs/TestReciever.java
+END
+TestDispatcher.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/repo/!svn/ver/105/trunk/TradingSimulator/src/scott/trading/infra/test/stubs/TestDispatcher.java
+END
